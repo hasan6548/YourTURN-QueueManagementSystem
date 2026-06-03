@@ -16,8 +16,13 @@ This project is built using Flutter and Dart. It is designed to demonstrate mobi
 ##  How to Run
 
 Clone the repository:
-```bash
 git clone https://github.com/your-username/your-repo.git
+
+Install dependencies:
+flutter pub get
+
+Run the app:
+flutter run
 
 ## Getting Started
 
