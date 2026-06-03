@@ -1,6 +1,23 @@
 # yourturn
+# My Flutter Application
 
-A new Flutter project.
+This project is built using Flutter and Dart. It is designed to demonstrate mobile app development skills including UI design, state management, and basic app architecture.
+
+## Features
+- Responsive UI
+- Clean and modular code structure
+- Easy navigation between screens
+
+## Tech Stack
+- Flutter
+- Dart
+- Android Studio / VS Code
+
+##  How to Run
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/your-repo.git
 
 ## Getting Started
 
