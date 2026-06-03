@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054221680598",
+    "project_id": "yourturn-6c6b1",
+    "storage_bucket": "yourturn-6c6b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054221680598:android:7274fe3e9944e29b6cae77",
+        "android_client_info": {
+          "package_name": "com.example.yourturn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_GUYmPqPRH_gs28TNdikD_16gPGtyev4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054221680598:android:296c58c16d068d086cae77",
+        "android_client_info": {
+          "package_name": "com.yourturn.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_GUYmPqPRH_gs28TNdikD_16gPGtyev4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
